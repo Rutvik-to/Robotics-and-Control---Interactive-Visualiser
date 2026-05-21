@@ -4,10 +4,15 @@ Robotics & Control — Interactive Visualizer
 Sliders. Live math. No login. No cloud.
 
 Run it
-bashgit clone https://github.com/YOUR_USERNAME/robotics-hub.git
+
+bashgit clone https://github.com/Rutvik-to/robotics-hub.git
+
 cd robotics-hub
+
 npm install
+
 npm run dev
+
 Opens at http://localhost:5173. Requires Node.js 18+.
 
 Covers

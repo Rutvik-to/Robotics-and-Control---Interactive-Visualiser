@@ -5,9 +5,9 @@ Sliders. Live math. No login. No cloud.
 
 Run it
 
-bashgit clone https://github.com/Rutvik-to/robotics-hub.git
-
-cd robotics-hub
+Download and extract robotics-hub
+open powershell window in the extracted folder
+run following commands
 
 npm install
 
